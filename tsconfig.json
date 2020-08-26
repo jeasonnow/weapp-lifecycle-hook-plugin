@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "es6",
+    "target": "ES5",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationDir": "lib",
+    "outDir": "lib",
+    "lib": ["ES6", "ES2017"],
+    "emitDeclarationOnly": true
+  },
+  "include": ["src/*.ts"],
+  "exclude": ["node_modules"]
+}
