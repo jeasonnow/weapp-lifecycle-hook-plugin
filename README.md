@@ -4,7 +4,7 @@
  * @Author: guyifeng
  * @Date: 2020-08-19 17:58:52
  * @LastEditors: guyifeng
- * @LastEditTime: 2020-08-26 16:47:37
+ * @LastEditTime: 2020-08-26 17:59:51
 -->
 
 # `weapp-lifecycle-hook-plugin`
@@ -19,7 +19,7 @@ Taro 微信小程序全局生命周期钩子拦截插件 @teana/weapp-lifecycle-
 ## Installation
 
 ```js
-yarn add @teana/weapp-lifecycle-hook-plugin
+yarn add weapp-lifecycle-hook-plugin
 ```
 
 ## Usage
