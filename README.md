@@ -4,14 +4,14 @@
  * @Author: guyifeng
  * @Date: 2020-08-19 17:58:52
  * @LastEditors: guyifeng
- * @LastEditTime: 2020-08-26 17:59:51
+ * @LastEditTime: 2020-08-28 14:07:38
 -->
 
 # `weapp-lifecycle-hook-plugin`
 
 ---
 
-Taro 微信小程序全局生命周期钩子拦截插件 @teana/weapp-lifecycle-hook-plugin
+Taro 微信小程序全局生命周期钩子拦截插件 weapp-lifecycle-hook-plugin
 
 - 提供 `setupLifecycleListeners` 用于全局代理指定微信小程序生命周期
 - 提供 `OverrideWechatPage` 类用于为小程序指定生命周期添加监听

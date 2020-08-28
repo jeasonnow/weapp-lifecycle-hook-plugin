@@ -1,6 +1,6 @@
 {
   "name": "weapp-lifecycle-hook-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add global lifecycle listeners for weapp.",
   "main": "lib/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "README.md"
   ],
   "publishConfig": {
-    "registry": "https://npmjs.com"
+    "registry": "https://registry.npmjs.org"
   },
   "author": "santree",
   "license": "ISC",
@@ -47,7 +47,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.xiguacity.cn:fee/teana.git"
+    "url": "https://github.com/jeasonnow/weapp-lifecycle-hook-plugin"
   },
   "husky": {
     "hooks": {
