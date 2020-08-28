@@ -1,6 +1,6 @@
 {
   "name": "weapp-lifecycle-hook-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add global lifecycle listeners for weapp.",
   "main": "lib/index.js",
   "scripts": {
